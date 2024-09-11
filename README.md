@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Hasan 👋<br><br>Here's some stuff about me:<br><br>🌍 From Homs, Syria<br>🌱 I’m currently learning Node.js<br><br>
+# 👋 Hi, I’m Hasan 👋
+Here's some stuff about me:<br><br>🌍 From Homs, Syria<br>🌱 I’m currently learning Node.js<br><br>
 
 
 ## 🌐 Socials:
